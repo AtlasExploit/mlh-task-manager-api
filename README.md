@@ -1,6 +1,9 @@
 # Task Manager API
 
-A simple REST API built with **Python + Flask** that allows users to register, log in, and manage personal tasks.
+A RESTful API built with Flask that allows users to register, authenticate, and manage tasks.
+
+## Overview
+This project is a backend REST API that allows users to manage tasks with authentication and secure access.
 
 ## Features
 - User registration
